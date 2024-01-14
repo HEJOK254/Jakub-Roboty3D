@@ -6,6 +6,8 @@ Me when when when when when when when whe
 ## NOTE
 git pull OR git submodule update HAS TO BE RUN after EVERY commit on a submodule inside the main repo to update it in the main repo
 <br>
+However, the main repo updates all submodules at ~00:00 every day automatically.
+<br>
 (I'm writing this at like 3:30AM so i have no clue what I'm doing)
 <br>
 Testing testing...
